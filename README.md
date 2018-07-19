@@ -1,14 +1,11 @@
 # SpringDemo
 
-Introduction
+<h1>Introduction</h1>
 SpringDemo consists spring besic example to understand the Spring.
 
-Project details and setup
+<h1>Project details and setup</h1>
 The project is written in Java 8.
 
-Maven is used for Project Management. The pom.xml file will contain all the dependencies needed for the project as well as other configuration details.
-
-Prerequisites
+<h1>Prerequisites</h1>
 Java 8
-Maven 3
-Postgres 9.3
+Spring
